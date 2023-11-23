@@ -1,0 +1,16 @@
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\bin\Debug\net6.0-windows\Astronomical Processing Sprint 2.exe
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\bin\Debug\net6.0-windows\Astronomical Processing Sprint 2.deps.json
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\bin\Debug\net6.0-windows\Astronomical Processing Sprint 2.runtimeconfig.json
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\bin\Debug\net6.0-windows\Astronomical Processing Sprint 2.dll
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\bin\Debug\net6.0-windows\Astronomical Processing Sprint 2.pdb
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\Astronomical_Processing.Form1.resources
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\Astronomical Processing Sprint 2.csproj.GenerateResource.cache
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\Astronomical Processing Sprint 2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\Astronomical Processing Sprint 2.AssemblyInfoInputs.cache
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\Astronomical Processing Sprint 2.AssemblyInfo.cs
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\Astronomical Processing Sprint 2.csproj.CoreCompileInputs.cache
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\Astronomical Processing Sprint 2.dll
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\refint\Astronomical Processing Sprint 2.dll
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\Astronomical Processing Sprint 2.pdb
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\Astronomical Processing Sprint 2.genruntimeconfig.cache
+H:\Cert 4 TAFE PROGRAMMING\Assessments\C#\Assessment 3\Astronomical Processing sprint 2\Astronomical Processing\obj\Debug\net6.0-windows\ref\Astronomical Processing Sprint 2.dll
