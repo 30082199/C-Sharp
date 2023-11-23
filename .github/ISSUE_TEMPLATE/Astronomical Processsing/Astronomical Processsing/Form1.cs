@@ -46,17 +46,8 @@ namespace Astronomical_Processsing
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //check if any item is selected in the listBox
-            if (listBox1.SelectedIndex != -1)
-            {
-                //display the value of the selected item to the textBox
-                textBox1.Text = listBox1.SelectedItem.ToString();
-            }
-            else
-            {
-                //if there is no item selected, clea the textBox
-                textBox1.Text = "";
-            }
+
+         }
         }
     }
 }
